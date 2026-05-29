@@ -1,0 +1,6 @@
+{
+  "name": "AETHER Control Center",
+  "description": "AETHER — The suspension layer of discoverable repository modules, traversed by HERMES & governed by OCTAGON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
